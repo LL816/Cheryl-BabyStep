@@ -1,2 +1,2 @@
-# Cheryl-BabyStep
-Created when I nearly(??really) know nothing about programming
+to practice python urlib
+fetch shopping info from SMZDM website
